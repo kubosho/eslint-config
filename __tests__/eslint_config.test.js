@@ -6,15 +6,9 @@ const conf = require("../");
 
 const sourceFiles = ["index.js"];
 
-const options = {
-  ...conf,
-};
-
 (async () => {
   const eslint = new ESLint({
-    overrideConfig: {
-      ...options,
-    },
+    overrideConfig: conf,
   });
 
   const reports = await eslint.lintFiles(sourceFiles);
