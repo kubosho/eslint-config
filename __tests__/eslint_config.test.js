@@ -4,7 +4,7 @@ const assert = require("assert");
 const { ESLint } = require("eslint");
 const conf = require("../");
 
-const sourceFiles = ["index.js"];
+const sourceFiles = ["index.js", "./rules/import.js"];
 
 (async () => {
   const eslint = new ESLint({
