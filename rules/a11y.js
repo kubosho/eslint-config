@@ -14,8 +14,9 @@ module.exports = {
   plugins: ["jsx-a11y"],
   rules: {
     "jsx-a11y/alt-text": "error",
+    // "Definition for rule '***' was not found" suppresses.
     "jsx-a11y/anchor-ambiguous-text": [
-      "error",
+      "off",
       {
         words: [
           ...DEFAULT_AMBIGUOUS_WORDS,
@@ -65,7 +66,8 @@ module.exports = {
     "jsx-a11y/no-onchange": "error",
     "jsx-a11y/no-redundant-roles": "error",
     "jsx-a11y/no-static-element-interactions": "error",
-    "jsx-a11y/prefer-tag-over-role": "error",
+    // "Definition for rule '***' was not found" suppresses.
+    "jsx-a11y/prefer-tag-over-role": "off",
     "jsx-a11y/role-has-required-aria-props": "error",
     "jsx-a11y/role-supports-aria-props": "error",
     "jsx-a11y/scope": "error",
