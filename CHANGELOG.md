@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/kubosho/eslint-config/compare/v2.0.0...v2.0.1) (2023-01-03)
+
+
+### Bug Fixes
+
+* **package:** required files are included in files in package.json ([f668b78](https://github.com/kubosho/eslint-config/commit/f668b78622eb555a41489e23fb8fd04be4e0f38e))
+
 # [2.0.0](https://github.com/kubosho/eslint-config/compare/v1.0.1...v2.0.0) (2023-01-02)
 
 
