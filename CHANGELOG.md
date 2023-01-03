@@ -1,3 +1,10 @@
+## [2.0.3](https://github.com/kubosho/eslint-config/compare/v2.0.2...v2.0.3) (2023-01-03)
+
+
+### Bug Fixes
+
+* **a11y:** suppress rule not found error ([6066111](https://github.com/kubosho/eslint-config/commit/60661111ebad3a63beab3b8a980719f3439a72d7))
+
 ## [2.0.2](https://github.com/kubosho/eslint-config/compare/v2.0.1...v2.0.2) (2023-01-03)
 
 
