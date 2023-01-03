@@ -9,7 +9,10 @@
     "url": "git+ssh://git@github.com/kubosho/eslint-config.git"
   },
   "files": [
-    "index.js"
+    "index.js",
+    "rules/a11y.js",
+    "rules/import.js",
+    "rules/react.js"
   ],
   "scripts": {
     "test": "node __tests__/eslint_config.test.js"
