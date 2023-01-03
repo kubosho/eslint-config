@@ -8,6 +8,7 @@ module.exports = {
     "prettier",
     "./rules/import",
     "./rules/react",
+    "./rules/a11y",
   ],
   rules: {},
 };
