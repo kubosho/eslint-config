@@ -1,3 +1,10 @@
+## [2.0.2](https://github.com/kubosho/eslint-config/compare/v2.0.1...v2.0.2) (2023-01-03)
+
+
+### Bug Fixes
+
+* **index:** import of a11y lint rules ([e23dc78](https://github.com/kubosho/eslint-config/commit/e23dc78f22bbf5b7b833658d53eaad4ef8e28657))
+
 ## [2.0.1](https://github.com/kubosho/eslint-config/compare/v2.0.0...v2.0.1) (2023-01-03)
 
 
