@@ -1,7 +1,7 @@
 {
   "name": "@kubosho/eslint-config",
   "description": "ESLint shareable config for kubosho style",
-  "version": "2.0.3",
+  "version": "2.1.0",
   "license": "MIT",
   "author": "kubosho",
   "repository": {

@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/kubosho/eslint-config/compare/v2.0.3...v2.1.0) (2023-03-10)
+
+
+### Features
+
+* **package:** move eslint config and plugin to dependencies ([c731fab](https://github.com/kubosho/eslint-config/commit/c731fabdd7be44a93b86a149960a959df0722811))
+
 ## [2.0.3](https://github.com/kubosho/eslint-config/compare/v2.0.2...v2.0.3) (2023-01-03)
 
 
